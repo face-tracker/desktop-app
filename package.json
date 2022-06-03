@@ -19,8 +19,6 @@
   "license": "ISC",
   "devDependencies": {
     "electron": "^19.0.3"
-  },
-  "dependencies": {
     "electron-builder": "^23.0.3"
-  }
+  },
 }
