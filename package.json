@@ -1,0 +1,26 @@
+{
+  "name": "face-tracking-app",
+  "version": "1.0.0",
+  "description": "Face Tracking Desktop Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [
+    "face",
+    "tracking",
+    "desktop",
+    "app",
+    "electron",
+    "js"
+  ],
+  "author": "Hassan K. Alkhalidi",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^19.0.3"
+  },
+  "dependencies": {
+    "electron-builder": "^23.0.3"
+  }
+}
