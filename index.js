@@ -14,7 +14,7 @@ const createWindow = () => {
         }
     })
 
-    win.loadURL('https://site.gruceing.dev')
+    win.loadURL('https://site.gruceing.dev') 
 }
 
 app.whenReady().then(() => {
